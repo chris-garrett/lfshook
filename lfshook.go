@@ -3,7 +3,7 @@ package lfshook
 
 import (
 	"fmt"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"log"
 	"os"
 	"sync"
